@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/sce-lilhacks/static/css/main.a617e044.chunk.css",
-    "main.js": "/sce-lilhacks/static/js/main.4a582216.chunk.js",
-    "main.js.map": "/sce-lilhacks/static/js/main.4a582216.chunk.js.map",
+    "main.css": "/sce-lilhacks/static/css/main.d4345ca3.chunk.css",
+    "main.js": "/sce-lilhacks/static/js/main.3caa8684.chunk.js",
+    "main.js.map": "/sce-lilhacks/static/js/main.3caa8684.chunk.js.map",
     "runtime-main.js": "/sce-lilhacks/static/js/runtime-main.b5f77431.js",
     "runtime-main.js.map": "/sce-lilhacks/static/js/runtime-main.b5f77431.js.map",
     "static/js/2.91b2435b.chunk.js": "/sce-lilhacks/static/js/2.91b2435b.chunk.js",
@@ -10,14 +10,13 @@
     "static/js/3.c6092f95.chunk.js": "/sce-lilhacks/static/js/3.c6092f95.chunk.js",
     "static/js/3.c6092f95.chunk.js.map": "/sce-lilhacks/static/js/3.c6092f95.chunk.js.map",
     "index.html": "/sce-lilhacks/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/sce-lilhacks/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.91b2435b.chunk.js.LICENSE.txt": "/sce-lilhacks/static/js/2.91b2435b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/sce-lilhacks/static/media/logo.6ce24c58.svg"
+    "static/css/main.d4345ca3.chunk.css.map": "/sce-lilhacks/static/css/main.d4345ca3.chunk.css.map",
+    "static/js/2.91b2435b.chunk.js.LICENSE.txt": "/sce-lilhacks/static/js/2.91b2435b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b5f77431.js",
     "static/js/2.91b2435b.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.4a582216.chunk.js"
+    "static/css/main.d4345ca3.chunk.css",
+    "static/js/main.3caa8684.chunk.js"
   ]
 }
