@@ -4,7 +4,7 @@
 
 .App-header {
   background-color: #1eb0bb;
-  min-height: 100vh;
+  min-height: 50vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -13,9 +13,20 @@
   color: white;
 }
 
+
 .App-link {
   color: #61dafb;
 }
 
 
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
 
+
+.GoogleMap{
+  margin: 0;
+  padding: 0;
+}
