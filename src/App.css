@@ -3,14 +3,18 @@
 }
 
 .App-header {
-  background-color: #1eb0bb;
+  background-color: #1ba7b1;
   min-height: 50vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: left;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color:whitesmoke;
+}
+.App-logo {
+  background-image: url(./logo2.png);
+  
 }
 
 
@@ -22,11 +26,9 @@
 *{
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: var(--ff-primary);
 }
-
-
-.GoogleMap{
-  margin: 0;
-  padding: 0;
+.map-style{
+  width: 100px;
+  height: 50px;
 }

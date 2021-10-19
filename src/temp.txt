@@ -1,0 +1,31 @@
+import './App.css';
+
+import GoogleMap from './components/GoogleMap';
+
+
+function App() {
+  function getData(val){
+    console.warn(val.target.value)
+  }
+  
+  return (
+    <div class = "App-header">
+      
+      <center>
+      <h1>Welcome To Navi GO</h1>
+      </center>
+      <center>
+      <br />
+      <p>Enter your getaway <input id="text1"  placeholder=" " onChange = {getData}/> </p>
+      <p class = "input-boxes">When <input id="text1" placeholder = " " onChange = {getData} /> </p>
+      
+      <button>Enter</button>
+      <br />
+      <GoogleMap />
+      </center>
+    </div>
+
+  );
+}
+
+export default App;
